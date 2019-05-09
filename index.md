@@ -4,7 +4,7 @@ Over 17 years of experience in several positions as IT manager, system consultan
 
 ### Current Roles: IT infrastructure Project Manager @ Qoros (Big Data) 
 
-### Major Higlight:
+### Major Highlight:
 - Public Key Infrastructure system
 - UTRC DevOps project (base on GitHub Enterprise)
 - Qorosauto QCloud /SaaS/PaaS deployment and managements
