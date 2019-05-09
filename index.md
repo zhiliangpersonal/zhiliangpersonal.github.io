@@ -18,38 +18,18 @@ Over 17 years of experience in several positions as IT manager, system consultan
 - Machine Learning on Python & R in Data Science 
 
 ### Experience
-1.
-2.*United Technologies Research Center** as **IT Sr.Analysis**
-3.
+1. **Qoros Auto Co.,Ltd** as **Infrastructure Project Manager** 2018/11 to Now
+2. **United Technologies Research Center** as **IT Sr.Analysis** 2018/05 to 2018/11
+3. **Qoros Auto Co.,Ltd** as **Infrastructure Arch** 2012/05 to 2014/11
+4. **HP Co.,Ltd** as **Service Delivery Consultant** 2011/07 to 2012/05
+5. **HMD Architecture Design Co.,Ltd** as **IT manager** 2011/04 to 2011/07
+6. **EDAW|AECOM Shanghai Co.,Ltd** as **System Engineer** 2005/05 to 2011/04
+7. **Intel Product Shanghai Co.,Ltd** as **Equipment Engineer** 2003/07 to 2005/05
+8. **ZZVC Shanghai Co.,Ltd** as **Tech Support Engineer** 2002/07 to 2003/07
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhiliangpersonal/zhiliangpersonal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Education
+- Shanghai Second Polytechnic University **Bachelor** 2004 to 2007
+- Shanghai Second Polytechnic University **Associate** 2002 graduated Major Electronics
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email:zhiliang(a)outlook.com
