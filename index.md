@@ -1,10 +1,9 @@
-## 个人简历 （建设中）
+## Liu Zhiliang (Terry Liu)
 
-You can use the [editor on GitHub](https://github.com/zhiliangpersonal/zhiliangpersonal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Over 17 years of experience in several positions as IT manager, system consultant, system administrator. Skilled in information systems management, analysis, troubleshooting, testing, documentation, systems analysis, network, ITIL process, project management, Data Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Current Roles: IT infrastructure Project Manager @ Qoros
+### Major Higlight:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
