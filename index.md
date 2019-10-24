@@ -5,17 +5,13 @@ Over 17 years of experience in several positions as IT manager, system consultan
 ### Current Roles: IT infrastructure Project Manager @ Qoros (Big Data) 
 
 ### Major Highlight:
-- Public Key Infrastructure system
-- UTRC DevOps project (base on GitHub Enterprise)
+- Public Key Infrastructure system for TBOX/TSP/CarApp
 - Qorosauto QCloud /SaaS/PaaS deployment and managements
 - Qorosauto Datacenter operation team leader
 - Qorosauto outsourcing vendor managements
-- ADM China Infrastructures team leader 
-- Experience in deploying solution on AWS / Azure 
-- Experience in Cisco Network Equipment
-- Experience on Linux/Windows/OS X
-- Experience on VMware vSphere / VSAN
-- Machine Learning on Python & R in Data Science 
+- Experience in deploying solution on Azure 
+- Experience in DevOps (git/ansible)
+- Python & R in Data Science 
 
 ### Experience
 1. **Qoros Auto Co.,Ltd** as **Infrastructure Project Manager** 2018/11 to Now
