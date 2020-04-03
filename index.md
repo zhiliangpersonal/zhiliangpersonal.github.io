@@ -1,6 +1,6 @@
 ## Liu Zhiliang (Terry Liu)
 
-Over 17 years of experience in several positions as IT manager, system consultant, system administrator. Skilled in information systems management, analysis, troubleshooting, testing, documentation, systems analysis, network, ITIL/BRM, project management, Data Science.
+Over 18 years of experience in several positions as IT manager, system consultant, system administrator. Skilled in information systems management, analysis, troubleshooting, testing, documentation, systems analysis, network, ITIL/BRM, project management, Data Science.
 
 ### Current Roles: IT Manager @ SIMC (Medical & Healthcare Industry) 
 
