@@ -5,7 +5,7 @@ Over 18 years of experience in several positions as IT manager, system consultan
 ### Current Roles: Deputy Director @ SIMC (Medical & Healthcare Industry) 
 
 ### Experience
-1. **SIMC** as **Deputy Director** 2020/1 to Now 
+1. **SIMC** as **Deputy Director** 2020/1 to 2021/3 
 1. **Qoros Auto Co.,Ltd** as **Infrastructure Project Manager** 2018/11 to 2019/12
 2. **United Technologies Research Center** as **IT Sr.Analysis** 2018/05 to 2018/11
 3. **ADM Shanghai Management Co.,Ltd** as **System Engineer** 2015/01 to 2018/05
