@@ -1,6 +1,6 @@
 ## Liu Zhiliang (Terry Liu)
 
-Over 18 years of experience in several positions as IT manager, system consultant, system administrator. Skilled in information systems management, analysis, troubleshooting, testing, documentation, systems analysis, network, ITIL/BRM, project management, Data Science.
+Over 19 years of experience in several positions as IT manager, system consultant, system administrator. Skilled in information systems management, analysis, troubleshooting, testing, documentation, systems analysis, network, ITIL/BRM, project management, Data Science.
 
 ### Current Roles: Cloud & Infra Expert @ Wuhan Lotus Technology Co.,Ltd (Car Industry) 
 
