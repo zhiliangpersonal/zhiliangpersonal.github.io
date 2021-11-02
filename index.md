@@ -2,10 +2,10 @@
 
 Over 18 years of experience in several positions as IT manager, system consultant, system administrator. Skilled in information systems management, analysis, troubleshooting, testing, documentation, systems analysis, network, ITIL/BRM, project management, Data Science.
 
-### Current Roles: Infra.Architect @ Wuhan Lotus Cars Technology Co.,Ltd (Car Industry) 
+### Current Roles: Cloud & Infra Expert @ Wuhan Lotus Technology Co.,Ltd (Car Industry) 
 
 ### Experience
-1. **Wuhan Lotus Cars Technology Co.,Ltd** as **Infra.Architect** 2021/7 to Present
+1. **Wuhan Lotus Technology Co.,Ltd** as **Cloud & Infra Expert** 2021/7 to Present
 2. **SIMC** as **Deputy Director** 2020/1 to 2021/3 
 3. **Qoros Auto Co.,Ltd** as **Infrastructure Project Manager** 2018/11 to 2019/12
 4. **United Technologies Research Center** as **IT Sr.Analysis** 2018/05 to 2018/11
